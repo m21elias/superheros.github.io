@@ -1,0 +1,83 @@
+body{
+	margin: 0;
+	font-family: 'Quicksand' , sans-serif;
+	letter-spacing: -.022em;
+	line-height: 1.47059;
+    font-weight: 400;
+    font-size: 17px;
+    font-style: normal;
+}
+
+/*body*/
+section{
+	display: block;
+	text-align: center;
+}
+
+i.apple{
+	background-color: black;
+	padding: 7px 15px 7px 15px;
+}
+
+h1{
+	font-size: 56px;
+	text-align: center;
+	font-family: 'Fjalla' , sans-serif;
+	margin:0;
+	padding-top: 3px;
+	position: relative;
+	top: 100px;
+}p{
+	margin:0;
+	font-size: 25px;
+}
+ul li{
+	display: inline-block;
+	width: auto;
+	height: 10px;
+	width: 90px;
+	color: white;
+	margin: 2px 25px;
+
+}
+img{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+	width: 100%;
+	margin: 45px;
+}
+a{
+	color: white;
+	text-decoration: none;
+	opacity: 0.8px;
+}
+li a:hover{
+	background-color: black;
+	opacity: 0.5;
+}
+
+div.navigation{
+	background-color: black;
+	position: fixed;
+	opacity: 0.8;
+	width: 100%;
+	padding: 0;
+	top: 0;
+}
+h3{
+	margin-top: 6px;
+	position: relative;
+	text-align: center;
+	top: 80px;
+
+}
+div.homepod{
+	background-color: #fafafa;
+}
+div.iphonex{
+	background-color: #f2f2f2;
+}
+div.iphone8{
+	background-color: #faf0ec;
+}
